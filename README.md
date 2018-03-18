@@ -1,7 +1,7 @@
 # Weather-app
 
 ## A app designed in ReactJs using "openweathermap" api.
-Just entered the City and Country ang get the temperature , humidity etc.
+Just entered the City and Country and get the temperature , humidity etc.
 
 ### Prerequisites:
 1. Any javascript IDE supporting Javascript.
@@ -9,7 +9,8 @@ Just entered the City and Country ang get the temperature , humidity etc.
 
 ### How to Set up?
 Step 1: Install dependencies 
-        ``` npm install ```
+        ``` npm install ``` <br/>
+        
 Step 2: Paste your api key int the code.. The key here is some random number...
 
 
