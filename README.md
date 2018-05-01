@@ -7,6 +7,7 @@ Step 1: Make your account on "openweathermap" and get your api key.
 <br/>
 Step 2: Deploy to Heroku
 <br/>
+<br/>
      [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ## A app designed in ReactJs using "openweathermap" api.
